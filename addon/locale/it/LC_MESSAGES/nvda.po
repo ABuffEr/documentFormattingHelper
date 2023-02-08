@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'atAGlance' '0.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2022-12-19 18:52+0100\n"
+"PO-Revision-Date: 2022-12-19 18:54+0100\n"
+"Last-Translator: Alberto Buffolino <a.buffolino@gmail.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1\n"
+
+#. Translators: Describes the say partial command.
+#: addon\globalPlugins\atAGlance\__init__.py:33
+msgid "Launches say partial"
+msgstr "Lancia dire in parte"
+
+#. Translators: Describes the formatting helper command.
+#: addon\globalPlugins\atAGlance\__init__.py:49
+msgid "Launches formatting helper"
+msgstr "Lancia l'assistente alla formattazione"
+
+#. some required strings
+#. Translators: description of centered text
+#: addon\globalPlugins\atAGlance\formattingHelper.py:96
+msgid "center"
+msgstr "centrato"
+
+#. Translators: description of justified text
+#: addon\globalPlugins\atAGlance\formattingHelper.py:98
+msgid "justified"
+msgstr "giustificato"
+
+#. Translators: description of text aligned to left
+#: addon\globalPlugins\atAGlance\formattingHelper.py:100
+msgid "left"
+msgstr "a sinistra"
+
+#. Translators: description of text aligned to right
+#: addon\globalPlugins\atAGlance\formattingHelper.py:102
+msgid "right"
+msgstr "a destra"
+
+#. Translators: message when document analyzer starts
+#: addon\globalPlugins\atAGlance\formattingHelper.py:158
+msgid "Analyzing..."
+msgstr "Inizio analisi..."
+
+#: addon\globalPlugins\atAGlance\formattingHelper.py:175
+msgid "No result"
+msgstr "Nessun risultato"
+
+#. Translators: message when user asks to stop analyzer
+#: addon\globalPlugins\atAGlance\formattingHelper.py:183
+msgid "Stopping!"
+msgstr "Stop!"
+
+#. Translators: window title of the formatting helper feature
+#: addon\globalPlugins\atAGlance\formattingHelper.py:285
+msgid "Formatting helper for {docTitle}"
+msgstr "Assistente formattazione per {docTitle}"
+
+#: addon\globalPlugins\atAGlance\formattingHelper.py:290
+msgid "Desired formatting"
+msgstr "Formattazione desiderata"
+
+#: addon\globalPlugins\atAGlance\formattingHelper.py:338
+msgid "color"
+msgstr "Colore"
+
+#. Translators: message presented when a property is only of a non-textual element
+#: addon\globalPlugins\atAGlance\formattingHelper.py:385
+msgid "no text"
+msgstr "no testo"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "At A Glance"
+msgstr "A Colpo d'Occhio"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"Offers various features for something like an at-a-glance experience for "
+"blind users."
+msgstr ""
+"Offre varie funzionalità per qualcosa di simile a un'esperienza a colpo "
+"d'occhio per gli utenti non vedenti."
+
+#~ msgid "Choose properties for "
+#~ msgstr "Scegli le proprietà per "
+
+#~ msgid "&Next"
+#~ msgstr "&Avanti"
+
+#~ msgid "Results from "
+#~ msgstr "Risultati da "
+
+#~ msgid "Done!"
+#~ msgstr "Fatto!"
