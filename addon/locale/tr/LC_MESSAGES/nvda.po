@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'Belge Biçimlendirme Yardımcısı' '0.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2023-02-22 16:46+0300\n"
+"PO-Revision-Date: 2023-02-22 16:47+0300\n"
+"Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../../globalPlugins\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: documentFormattingHelper/__init__.py:15
+msgid "Launches formatting helper"
+msgstr "Biçimlendirme yardımcısını başlatır"
+
+#: documentFormattingHelper/formattingHelper.py:97
+msgid "center"
+msgstr "ortalı"
+
+#: documentFormattingHelper/formattingHelper.py:99
+msgid "justified"
+msgstr "iki yana yaslı"
+
+#: documentFormattingHelper/formattingHelper.py:101
+msgid "left"
+msgstr "sola"
+
+#: documentFormattingHelper/formattingHelper.py:103
+msgid "right"
+msgstr "sağa"
+
+#: documentFormattingHelper/formattingHelper.py:156
+msgid "Sorry, formatting helper is not available yet in UIA context"
+msgstr "Üzgünüz, biçimlendirme yardımcısı henüz UIA bağlamında kullanılamıyor"
+
+#: documentFormattingHelper/formattingHelper.py:161
+msgid "Analyzing..."
+msgstr "Analiz ediliyor..."
+
+#: documentFormattingHelper/formattingHelper.py:177
+#: documentFormattingHelper/formattingHelper.py:494
+msgid "No result"
+msgstr "Sonuç yok"
+
+#: documentFormattingHelper/formattingHelper.py:183
+#, fuzzy
+#| msgid "Stopping!"
+msgid "Stop!"
+msgstr "Durduruluyor!"
+
+#: documentFormattingHelper/formattingHelper.py:329
+#, python-brace-format
+msgid "Formatting helper for {docTitle}"
+msgstr "{docTitle} için biçimlendirme yardımcısı"
+
+#: documentFormattingHelper/formattingHelper.py:338
+msgid "Desired formatting"
+msgstr "İstenen biçimlendirme"
+
+#: documentFormattingHelper/formattingHelper.py:388
+msgid "color"
+msgstr "renk"
+
+#: documentFormattingHelper/formattingHelper.py:435
+msgid "no text"
+msgstr "metin yok"
+
+#~ msgid "Launches say partial"
+#~ msgstr "Kısmi duyuruları başlat"
+
+#~ msgid "At A Glance"
+#~ msgstr "Bir bakışta"
+
+#~ msgid "Offers various features for something like an at-a-glance experience for blind users."
+#~ msgstr "Görme engelli kullanıcılar için bir bakışta deneyim gibi çeşitli özellikler sunar."
+
+#~ msgid "Choose properties for "
+#~ msgstr "Scegli le proprietà per "
+
+#~ msgid "&Next"
+#~ msgstr "&Avanti"
+
+#~ msgid "Results from "
+#~ msgstr "Risultati da "
+
+#~ msgid "Done!"
+#~ msgstr "Fatto!"
